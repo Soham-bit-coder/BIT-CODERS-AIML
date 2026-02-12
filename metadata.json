@@ -1,0 +1,7 @@
+{
+  "name": "NutriVision AI",
+  "description": "An advanced food recognition and nutritional analysis platform that leverages Gemini AI to identify meals from images and provide detailed health insights and fitness tracking integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
